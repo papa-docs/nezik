@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "15.04.2000"; // Дата рождения
-var fullname = "Маковецький Дамiр Констянтинович" // ФИО
+var birthdate = "03.11.2003"; // Дата рождения
+var fullname = "Маковецький Дамiр Володимирович" // ФИО
 var name = "Дамiр" // Имя
 
 // Паспорт
