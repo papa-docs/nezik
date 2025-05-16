@@ -14,10 +14,10 @@ var passport_id = "003519022" // Номер паспорта
 var kpp_id = "3823461956" // ИНН
 
 // Права
-var rights_valid_until = "08.04.2041" // Права "Дійсні до"
+var rights_valid_until = "20.11.2054" // Права "Дійсні до"
 var rights_categories = "A, B" // Права "Категорії"
 var rights_tsc = "ТСЦ 2642" // Права "Видав
-var rights_id = "KKM235413" // Права "Серія та номер""
+var rights_id = "BXA506115" // Права "Серія та номер""
 
 // COVID-сертификат
 var covid_valid_until = "09.08.2024" // Сертификат "Дійсний до"
