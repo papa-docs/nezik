@@ -17,7 +17,7 @@ var kpp_id = "3598010331" // ИНН
 var rights_valid_until = "04.17.2049" // Права "Дійсні до"
 var rights_categories = "A, В" // Права "Категорії"
 var rights_tsc = "ТСЦ 1248" // Права "Видав
-var rights_id = "АОK218053" // Права "Серія та номер""
+var rights_id = "АTK208653" // Права "Серія та номер""
 
 // COVID-сертификат
 var covid_valid_until = "09.08.2024" // Сертификат "Дійсний до"
