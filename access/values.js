@@ -3,21 +3,21 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "04.05.2001"; // Дата рождения
-var fullname = "Кривобок Віталій Дмитрович  " // ФИО
-var name = "Віталій" // Имя
+var birthdate = "05.07.1998"; // Дата рождения
+var fullname = "Василенко Назар миколайович" // ФИО
+var name = "Назар" // Имя
 
 // Паспорт
-var passport_id = "007128081" // Номер паспорта
+var passport_id = "004308011" // Номер паспорта
 
 // КПП
-var kpp_id = "3701403179" // ИНН
+var kpp_id = "3598010331" // ИНН
 
 // Права
-var rights_valid_until = "14.05.2052" // Права "Дійсні до"
-var rights_categories = "В, С" // Права "Категорії"
-var rights_tsc = "ТСЦ 0742" // Права "Видав
-var rights_id = "BXК207332" // Права "Серія та номер""
+var rights_valid_until = "04.17.2049" // Права "Дійсні до"
+var rights_categories = "A, В" // Права "Категорії"
+var rights_tsc = "ТСЦ 1248" // Права "Видав
+var rights_id = "АОK218053" // Права "Серія та номер""
 
 // COVID-сертификат
 var covid_valid_until = "09.08.2024" // Сертификат "Дійсний до"
