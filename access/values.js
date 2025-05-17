@@ -14,7 +14,7 @@ var passport_id = "007128081" // Номер паспорта
 var kpp_id = "3701403179" // ИНН
 
 // Права
-var rights_valid_until = "04.05.2052" // Права "Дійсні до"
+var rights_valid_until = "14.05.2052" // Права "Дійсні до"
 var rights_categories = "В, С" // Права "Категорії"
 var rights_tsc = "ТСЦ 0742" // Права "Видав
 var rights_id = "BXК207332" // Права "Серія та номер""
