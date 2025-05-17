@@ -3,21 +3,21 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "09.11.2003"; // Дата рождения
-var fullname = "Маковецький Дамiр Володимирович" // ФИО
-var name = "Дамiр" // Имя
+var birthdate = "04.05.2001"; // Дата рождения
+var fullname = "Кривобок Віталій Дмитрович  " // ФИО
+var name = "Віталій" // Имя
 
 // Паспорт
-var passport_id = "003519022" // Номер паспорта
+var passport_id = "007128081" // Номер паспорта
 
 // КПП
-var kpp_id = "3823461956" // ИНН
+var kpp_id = "3701403179" // ИНН
 
 // Права
-var rights_valid_until = "20.11.2054" // Права "Дійсні до"
-var rights_categories = "A, B" // Права "Категорії"
-var rights_tsc = "ТСЦ 2642" // Права "Видав
-var rights_id = "BXA506115" // Права "Серія та номер""
+var rights_valid_until = "04.05.2052" // Права "Дійсні до"
+var rights_categories = "В, С" // Права "Категорії"
+var rights_tsc = "ТСЦ 0742" // Права "Видав
+var rights_id = "BXК207332" // Права "Серія та номер""
 
 // COVID-сертификат
 var covid_valid_until = "09.08.2024" // Сертификат "Дійсний до"
